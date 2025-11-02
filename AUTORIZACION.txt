@@ -1,0 +1,9 @@
+AUTORIZACIÓN EXPRESA — PUBLICACIÓN Y DIFUSIÓN ABIERTA
+
+Yo, Genaro Carrasco Ozuna, autorizo explícitamente la creación, publicación y difusión del paquete
+“TCDS_Sismo_Σ-Predictivo”, incluyendo el código, documentación, registros de predicción y datos derivados,
+bajo la licencia CC BY-NC-SA 4.0. Esta autorización alcanza a su publicación en GitHub/Zenodo y a la difusión
+pública de las predicciones diarias firmadas criptográficamente, con fines de validación empírica del marco TCDS.
+
+Fecha de autorización: 2025-11-02
+Firma: /s/ Genaro Carrasco Ozuna
