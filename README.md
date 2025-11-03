@@ -24,7 +24,8 @@ La validez se mide por reproducibilidad y precisión con **Σ‑metrics** y crit
 - Predicción anticipada (τ>0) respecto a catálogos oficiales (USGS/SSN/IRIS).
 
 ## DOI / Citación
-Se recomienda archivar releases en Zenodo para DOI. (Ejemplo: `10.5281/zenodo.17491112` — otro repositorio del autor).
+Se recomienda archivar releases en Zenodo para DOI. (Ejemplo: `10.5281/zenodo.17491112` 
+—Otros documentos del autor en:.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17463045.svg)](https://doi.org/10.5281/zenodo.17463045)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17450752.svg)](https://doi.org/10.5281/zenodo.17450752)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17504507.svg)](https://doi.org/10.5281/zenodo.17504507)
