@@ -26,10 +26,6 @@ La validez se mide por reproducibilidad y precisión con **Σ‑metrics** y crit
 ## DOI / Citación
 Se recomienda archivar releases en Zenodo para DOI. (Ejemplo: `10.5281/zenodo.17491112` 
 —Otros documentos del autor en:.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17463045.svg)](https://doi.org/10.5281/zenodo.17463045)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17450752.svg)](https://doi.org/10.5281/zenodo.17450752)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17504507.svg)](https://doi.org/10.5281/zenodo.17504507)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17504243.svg)](https://doi.org/10.5281/zenodo.17504243)
 ## Cómo replicar
 1. Edita `scripts/template_prediccion.md` para la predicción del día.  
 2. Ejecuta `scripts/compute_hash.py` para generar `hash_sha256.txt`.  
