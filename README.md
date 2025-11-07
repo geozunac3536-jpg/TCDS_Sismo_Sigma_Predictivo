@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/1087938102.svg)](https://doi.org/10.5281/zenodo.17504506)
-
+Nodo central: https://geozunac3536-jpg.github.io/TCDS-Convergencia/
 
 # TCDS — Sistema Predictivo Sísmico Σ-Predictivo
 
